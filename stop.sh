@@ -1,0 +1,1 @@
+docker stop testmail && docker container rm testmail &
